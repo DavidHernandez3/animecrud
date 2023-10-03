@@ -1,0 +1,227 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+	<div class="col-sm-12" ">
+
+		<!--inicio de tarjeta-->
+		<div class="card">
+			<div class="card-header">Anime</div>
+			<div class="card-body">
+
+				<button class="btn btn-primary" id="btnNuevo">Nuevo Anime</button>
+
+				<hr />
+				<div class="table-responsive">
+				<table class="table table-dark table-hover" id="tbAnime">
+					<thead>
+						<tr>
+							<th>Nombre</th>
+							<th>Categoria</th>
+							<th>Temporadas</th>
+							<th>Fecha Lanzamiento</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody>
+					</tbody>
+
+				</table>
+				</div>
+			</div>
+		</div>
+		<!--fin de la tarjeta-->
+	</div>
+</div>
+
+<!--inicio modal-->
+
+<div class="modal" tabindex="-1">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header bg-dark text-white">
+				">
+				<h5 class="modal-title">Detalle Anime </h5>
+				<botton type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></botton>
+			</div>
+			<div class="modal-body">
+				<input id="txtIdAnime" type="hidden" value="0" />
+
+				<div class="mb-2">
+					<label> Anime </label>
+					<input type="text" class="form-control" id="txtNombre" />
+				</div>
+
+
+				<div class="mb-2">
+					<label> Categoria </label>
+					<input type="text" class="form-control" id="txtCategoria">
+				</div>
+
+
+				<div class="mb-2">
+					<label> Temporada </label>
+					<input type="number" class="form-control" id="txtTemporada">
+
+				</div>
+
+
+				<div class="mb-2">
+					<label> Fecha Lanzamiento </label>
+					<input type="text" class="form-control" id="txtFechaLanzamiento">
+				</div>
+
+
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary " id="btnGuardar">Guardar</button>
+				<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cerrar</button>
+			</div>
+		</div>
+	</div>
+</div>
+<!--fin modal-->
+	@section Scripts{
+	<script>
+
+		const Modelo_base = {
+			idAnime: 0,
+			nombre: "",
+			categoria: "",
+			temporada: "",
+			fechaLanzamiento: ""
+		}
+
+
+		$(document).ready(() => {
+
+			listaAnime();
+		})
+
+		function mostrarModal(modelo) {
+			$("#txtIdAnime").val(modelo.idAnime);
+			$("#txtNombre").val(modelo.nombre);
+			$("#txtCategoria").val(modelo.categoria);
+			$("#txtTemporada").val(modelo.temporada);
+			$("#txtFechaLanzamiento").val(modelo.fechaLanzamiento);
+
+			$('.modal').modal('show');
+		}
+
+		$("#btnNuevo").click(() => {
+			mostrarModal(Modelo_base);
+		})
+
+		$("#btnGuardar").click(() => {
+			let NuevoModelo = Modelo_base;
+
+			NuevoModelo["idAnime"] = $("#txtIdAnime").val();
+			NuevoModelo["nombre"] = $("#txtNombre").val();
+			NuevoModelo["categoria"] = $("#txtCategoria").val();
+			NuevoModelo["temporada"] = $("#txtTemporada").val();
+			NuevoModelo["fechaLanzamiento"] = $("#txtFechaLanzamiento").val();
+
+
+			console.log(NuevoModelo)
+
+			if ($("#txtIdAnime").val() == "0" || $("#txtIdAnime").val() == undefined) {
+				fetch("Home/Insertar", {
+					method: "POST",
+					headers: {
+						'Content-Type': 'application/json;charset=utf-8'
+					},
+					body: JSON.stringify(NuevoModelo)
+				})
+					.then((response) => {
+						return response.ok ? response.json() : Promise.reject(response)
+					})
+					.then((dataJson) => {
+						if (dataJson.valor) {
+							alert("registrado");
+							$('.modal').modal('hide');
+							listaAnime();
+						}
+					})
+			} else {
+				fetch("Home/Actualizar", {
+					method: "PUT",
+					headers: {
+						'Content-Type': 'application/json;charset=utf-8'
+					},
+					body: JSON.stringify(NuevoModelo)
+				})
+					.then((response) => {
+						return response.ok ? response.json() : Promise.reject(response)
+					})
+					.then((dataJson) => {
+
+						if (dataJson.valor) {
+							alert("editado");
+							$('.modal').modal('hide');
+							listaAnime();
+						}
+					})
+			}
+		})
+		function listaAnime() {
+
+			fetch("Home/Lista")
+				.then((response) => {
+					return response.ok ? response.json() : Promise.reject(response)
+				})
+				.then((dataJson) => {
+
+					$("#tbAnime tbody").html("");
+
+					dataJson.forEach((item) => {
+
+						$("#tbAnime tbody").append(
+							$("<tr>").append(
+								$("<td>").text(item.nombre),
+								$("<td>").text(item.categoria),
+								$("<td>").text(item.temporada),
+								$("<td>").text(item.fechaLanzamiento),
+								$("<td>").append(
+									$("<button>").addClass("btn btn-primary btn-sm me-2 btn-editar").data("modelo", item).text("Editar"),
+									$("<button>").addClass("btn btn-danger btn-sm btn-eliminar").data("id", item.idAnime).text("Eliminar")
+								)
+							)
+						)
+
+					})
+				})
+		}
+
+		$("#tbAnime tbody").on("click", ".btn-editar", function () {
+			let anime = $(this).data("modelo")
+
+			mostrarModal(anime)
+		})
+
+
+		$("#tbAnime tbody").on("click", ".btn-eliminar", function () {
+			let idAnime = $(this).data("id")
+
+			let resultado = window.confirm("¿Desea eliminar el anime?");
+
+
+			if (resultado) {
+
+
+				fetch("Home/Eliminar?id=" + idAnime, {
+					method: "DELETE"
+				})
+					.then((response) => {
+						return response.ok ? response.json() : Promise.reject(response)
+					})
+					.then((dataJson) => {
+
+						if (dataJson.valor) {
+							listaAnime();
+						}
+					})
+			}
+		})
+	</script>
+}

@@ -1,0 +1,626 @@
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.staticwebassets.runtime.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.exe
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.deps.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.runtimeconfig.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.BL.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.RazorAssemblyInfo.cs
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.AnimeCrud.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AnimeCrud.UI.props
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\bundle\AnimeCrud.UI.styles.css
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\scopedcss\projectbundle\AnimeCrud.UI.bundle.scp.css
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\refint\AnimeCrud.UI.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\AnimeCrud.UI.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.UI\obj\Debug\net6.0\ref\AnimeCrud.UI.dll

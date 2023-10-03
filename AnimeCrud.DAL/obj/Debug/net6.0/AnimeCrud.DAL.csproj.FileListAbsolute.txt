@@ -1,0 +1,136 @@
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Documents\Davidhdez_anime.CRUD - copia\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\Pulsera\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+D:\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.deps.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.runtimeconfig.json
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\bin\Debug\net6.0\AnimeCrud.EN.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.AssemblyInfo.cs
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.csproj.CopyComplete
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\refint\AnimeCrud.DAL.dll
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.pdb
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\AnimeCrud.DAL.genruntimeconfig.cache
+C:\Users\Carlos David\Desktop\AnimeMVC\Davidhdez_anime.CRU - copia\Davidhdez_anime.CRU - copia\ProyectoCrud_Anime\AnimeCrud.DAL\obj\Debug\net6.0\ref\AnimeCrud.DAL.dll
